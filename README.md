@@ -202,10 +202,6 @@ Please use the GitHub Issues tab to report bugs or request features. Provide det
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
-- UI components from [shadcn/ui](https://ui.shadcn.com/)
-- Backend powered by [Supabase](https://supabase.com/)
-- Icons from [Lucide](https://lucide.dev/)
 
 ---
 
